@@ -5,3 +5,5 @@
 Works where you work: MacOS, Linux & Windows. 
 
 <pre>pip3 install yo</pre> 
+
+This repo is not finished,  this is a VPN for how we are going to sanitize the data we collect from venues. 
