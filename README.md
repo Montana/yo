@@ -1,2 +1,2 @@
 # yo
-VPN for Prowl's sanitization service 
+Works where you work: Mac, Linux & Windows. 
