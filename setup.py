@@ -38,5 +38,5 @@ setup(
         ],
     },
     tests_require=['pytest', 'mock'],
-    keywords="ssh vpn",
+    keywords="ssh vpn, vps",
 )
